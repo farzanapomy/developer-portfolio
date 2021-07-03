@@ -10,6 +10,8 @@
 }
     section{
     display: flex;
+    margin-bottom: 150px;
+   
 }
     .half-width{
     width: 50%;
@@ -31,4 +33,12 @@
     background-repeat: no-repeat;
 
 }
+.Dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 100px;
+
+}
+
 
