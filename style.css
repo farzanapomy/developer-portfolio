@@ -19,10 +19,10 @@ section{
 }
 .link-button{
         text-decoration: none;
-        background-color: orange;
-        background-color: 10px , 40px;
+        background-image: linear-gradient(orange, red);  
+        padding: 20px , 60px;
         border-radius: 5px;
-        background-image: linear-gradient(orange, red);
+        
 
 }
 
